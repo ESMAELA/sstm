@@ -1,1 +1,2 @@
-# sstm
+# mykingbot
+King Bot
